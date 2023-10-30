@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @vijay-182<br>- 😊 I’m interested in **software engineering**<br>- 🌱 I’m currently learning **Electronics And Communication Engineering**<br>- 👨‍💻 I’m looking to collaborate on _Software Related Projects_ <br>- 📞 How to reach me on Linkedin --> ***https://www.linkedin.com/in/vijay-suresh-7b1b56200/?jobid=1234***
+- 👋 Hi, I’m @vijay-182<br>- 😊 I’m interested in **software engineering**<br>- 🌱 I’m currently learning **Electronics And Communication Engineering**<br>- 👨‍💻 I’m looking to collaborate on _Software Related Projects_ <br>- 📨 How to reach me on Mail --> ***rockzzvijay182@gmail.com***
 
 
 ## 🌐 Socials:
