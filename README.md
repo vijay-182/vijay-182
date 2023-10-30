@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/vijay-182/vijay-182/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://raw.githubusercontent.com/vijay-182/vijay-182/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 # 💫 About Me:
 - 👋 Hi, I’m @vijay-182<br>- 😊 I’m interested in **software engineering**<br>- 🌱 I’m currently learning **Electronics And Communication Engineering**<br>- 👨‍💻 I’m looking to collaborate on _Software Related Projects_ <br>- 📨 How to reach me on Mail --> ***rockzzvijay182@gmail.com***
 
