@@ -2,7 +2,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @vijay-182<br>- 😊 I’m interested in **software engineering**<br>- 🌱 I’m currently learning **Electronics And Communication Engineering**<br>- 👨‍💻 I’m looking to collaborate on _Software Related Projects_ <br>- 📨 How to reach me on Mail --> ***rockzzvijay182@gmail.com***
 
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F5fxny70880xb1.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vijay suresh) 
