@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @vijay-182<br>- 😊 I’m interested in **software engineering**<br>- 🌱 I’m currently learning **Electronics And Communication Engineering**<br>- 👨‍💻 I’m looking to collaborate on _Software Related Projects_ <br>- 📨 How to reach me on Mail --> ***rockzzvijay182@gmail.com***
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2FMedRedha%2Ffd8e2481bde2610c96b9aafde543879c&psig=AOvVaw3avOBZVv82rhqHZ_AIVviN&ust=1698727013131000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMidh7T5nIIDFQAAAAAdAAAAABAY"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vijay suresh) 
